@@ -27,8 +27,8 @@ body{
 #operations{
   text-align: right;
 }
-#previus-operation{
-  color: #777;
+#previous-operation{
+  color: #5c5c5c;
   padding: .2rem;
   overflow-wrap: break-word;
   min-height: 1.6rem;
